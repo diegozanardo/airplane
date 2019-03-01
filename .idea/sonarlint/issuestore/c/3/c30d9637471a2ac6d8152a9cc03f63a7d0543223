@@ -1,0 +1,9 @@
+
+Osquid:UselessParenthesesCheck"!Remove those useless parentheses.(Ü¾ƒÚ8ó³×¶“-
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÜÅÂ›8´÷úä’-
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8ï—æä’-
+Tsquid:S1213"8Move this variable to comply with Java Code Conventions.(ùÓîé8ó³×¶“-
+Osquid:UselessParenthesesCheck"!Remove those useless parentheses.(Ï’ë˜8 öÓå’-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(±§æˆ8ï—æä’-
+h
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(®Áã%8ï—æä’-

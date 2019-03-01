@@ -1,0 +1,9 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¶…¾ø8Î¤×¶“-
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ª¬Ëä’-
+xsquid:S3008"WRename this field "INVALID_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò²¼Óÿÿÿÿÿ8Î¤×¶“-
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(‰ÈÁô8ª¬Ëä’-
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8ª¬Ëä’-
